@@ -1,4 +1,4 @@
 # TCR_Innovation
-The Project
+Project
 <br>
 Created by Shreyas Varade
